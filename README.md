@@ -10,6 +10,7 @@
 | ----- |----------------------- | ---------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ | -------------|
 |2021 |DLA-MatchNet for Few-Shot Remote Sensing Image Scene Classification | DLA-MatchNet | [IEEE TGRS](https://ieeexplore.ieee.org/document/9250633) | - | - |
 |2021 | SPNet: Siamese-Prototype Network for Few-Shot Remote Sensing Image Scene Classification | SPNet | [IEEE TGRS](https://ieeexplore.ieee.org/document/9501951) | [code](https://github.com/zoraup/SPNet) | - |
+|2021 |SCL-MLNet: Boosting Few-Shot Remote Sensing Scene Classification via Self-Supervised Contrastive Learning | SCL-MLNet | [IEEE TGRS](https://ieeexplore.ieee.org/document/9535146) | - | - |
 |2022 |MKN: Metakernel Networks for Few Shot Remote Sensing Scene Classification | MKN | [IEEE TGRS](https://ieeexplore.ieee.org/abstract/document/9718271) | - | - |
 |2022 |AIFS-DATASET for Few-Shot Aerial Image Scene Classification | - | [IEEE TGRS](https://ieeexplore.ieee.org/abstract/document/9706143) | - | - |
 |2022 |Open Set Few-Shot Remote Sensing Scene Classification Based on a Multiorder Graph Convolutional Network and Domain Adaptation | - | [IEEE TGRS](https://ieeexplore.ieee.org/abstract/document/9953105) | - | - |
